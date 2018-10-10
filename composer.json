@@ -1,0 +1,17 @@
+{
+    "name": "matas/nfq-phpintro",
+    "description": "NFQ PHP Intro homework",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^7.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matas Kulingauskas",
+            "email": "matask@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
