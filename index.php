@@ -1,7 +1,6 @@
 <?php
 
-require 'src/functions.php';
-require 'src/functions_strict.php';
+require 'vendor/autoload.php';
 
 header('Content-Type: text/plain; charset=utf-8');
 
